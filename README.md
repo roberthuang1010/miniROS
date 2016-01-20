@@ -11,6 +11,7 @@ TO-DO lists:
 -Linux 0.11
 -write code line by line
 -read structure of ROS
+-一个操作系统的实现
 
 I'll keep my satus updated.
 best of luck.
