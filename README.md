@@ -1,19 +1,14 @@
 # miniROS
-The purpose of the this project is to try to write a minimum OS for ROS
-Previously, the ROS would be perfectly working on Linux Ubuntu OS
-However, all of the features are based on the Linux Cores,
-But rest of the features are not used and been wasted.
-Thus, I tried to cope with the a minimum working OS for the ROS
-To do so, I've break down the projects into several steps:
-Hopefully I could make this happen. So, finger crosses then.
-TO-DO lists:
--read books about basic OS 
--Linux 0.11
--write code line by line
--read structure of ROS
--一个操作系统的实现
+Project updated on 2 May 2017
+It's been a year since from last post of miniROS project.
+The mini OS is now achieved and named as Arbutus OS.
+The OS is now with arm and x86 version, 
+Since the arm version(32, 64 bit OS) is mainly tested on 
+raspberry pi 3b model, and the x86 version of the OS is tested
+on two very old pcs(586s models) and the boost speed is rather 
+acceptable.
+After the basic foudation of OS is sufficient, ive added ROS features
+to the OS, to enable the OS to be used to ranged purposes.
 
-I'll keep my satus updated.
-best of luck.
-
-minglong write on 16th Jan. 2016.
+Now, all the foundation works are done. the afterwards are some frame works
+to make the OS easy to install plus more stuff to suits a functional laptop OS.
